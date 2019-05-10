@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1549911581 source:c:\users\umair afzal\documents\codeblocks projects\chess\src\actionlist.cpp
+	"..\\include\\actionList.h"
+	<iostream>
+
+1549910817 c:\users\umair afzal\documents\codeblocks projects\chess\\include\\actionlist.h
+
+1549918508 source:c:\users\umair afzal\documents\codeblocks projects\chess\src\chess.cpp
+	"..\\include\\chess.h"
+	"..\\include\\humanPlayer.h"
+	"..\\include\\autoPlayer.h"
+	<iostream>
+
+1518194401 c:\users\umair afzal\documents\codeblocks projects\chess\\include\\chess.h
+	"gameState.h"
+	"chessPlayer.h"
+	"UI.h"
+
+1550767621 c:\users\umair afzal\documents\codeblocks projects\chess\\include\\gamestate.h
+	"chessBoard.h"
+	<string>
+	"ENUM.h"
+	"actionList.h"
+
+1518194984 c:\users\umair afzal\documents\codeblocks projects\chess\\include\\chessboard.h
+	<string>
+
+1518194772 c:\users\umair afzal\documents\codeblocks projects\chess\\include\\enum.h
+
+1549910590 c:\users\umair afzal\documents\codeblocks projects\chess\\include\\chessplayer.h
+	<string>
+	"ENUM.h"
+	"gameState.h"
+	"actionList.h"
+
+1518812520 c:\users\umair afzal\documents\codeblocks projects\chess\\include\\ui.h
+	"gameState.h"
+	<string>
+
+1549910605 c:\users\umair afzal\documents\codeblocks projects\chess\\include\\humanplayer.h
+	<string>
+	"ENUM.h"
+	"chessPlayer.h"
+
+1551685911 c:\users\umair afzal\documents\codeblocks projects\chess\\include\\autoplayer.h
+	"chessPlayer.h"
+	"ENUM.h"
+
+1518811072 source:c:\users\umair afzal\documents\codeblocks projects\chess\src\chessboard.cpp
+	"..\\include\\chessBoard.h"
+
+1549918311 source:c:\users\umair afzal\documents\codeblocks projects\chess\src\gamestate.cpp
+	"..\\include\\gameState.h"
+
+1549910931 source:c:\users\umair afzal\documents\codeblocks projects\chess\src\humanplayer.cpp
+	"..\\include\\humanPlayer.h"
+	<iostream>
+
+1549911992 source:c:\users\umair afzal\documents\codeblocks projects\chess\src\ui.cpp
+	"..\\include\\UI.h"
+	<iostream>
+	<iomanip>
+
+1550260530 source:c:\users\umair afzal\documents\codeblocks projects\chess\main.cpp
+	"include\\actionList.h"
+	<iostream>
+	<iomanip>
+	"include\\chess.h"
+	"include\\autoPlayer.h"
+	"include\\humanPlayer.h"
+
+1549910817 c:\users\umair afzal\documents\codeblocks projects\chess\include\\actionlist.h
+
+1518194401 c:\users\umair afzal\documents\codeblocks projects\chess\include\\chess.h
+	"gameState.h"
+	"chessPlayer.h"
+	"UI.h"
+
+1550767621 c:\users\umair afzal\documents\codeblocks projects\chess\include\\gamestate.h
+	"chessBoard.h"
+	<string>
+	"ENUM.h"
+	"actionList.h"
+
+1518194984 c:\users\umair afzal\documents\codeblocks projects\chess\include\\chessboard.h
+	<string>
+
+1518194772 c:\users\umair afzal\documents\codeblocks projects\chess\include\\enum.h
+
+1549910590 c:\users\umair afzal\documents\codeblocks projects\chess\include\\chessplayer.h
+	<string>
+	"ENUM.h"
+	"gameState.h"
+	"actionList.h"
+
+1518812520 c:\users\umair afzal\documents\codeblocks projects\chess\include\\ui.h
+	"gameState.h"
+	<string>
+
+1551685911 c:\users\umair afzal\documents\codeblocks projects\chess\include\\autoplayer.h
+	"chessPlayer.h"
+	"ENUM.h"
+
+1549910605 c:\users\umair afzal\documents\codeblocks projects\chess\include\\humanplayer.h
+	<string>
+	"ENUM.h"
+	"chessPlayer.h"
+
+1550316071 source:c:\users\umair afzal\documents\codeblocks projects\chess\src\chessplayer.cpp
+	"chessPlayer.h"
+
+1549910590 c:\users\umair afzal\documents\codeblocks projects\chess\include\chessplayer.h
+	<string>
+	"ENUM.h"
+	"gameState.h"
+	"actionList.h"
+
+1518194772 c:\users\umair afzal\documents\codeblocks projects\chess\include\enum.h
+
+1550767621 c:\users\umair afzal\documents\codeblocks projects\chess\include\gamestate.h
+	"chessBoard.h"
+	<string>
+	"ENUM.h"
+	"actionList.h"
+
+1518194984 c:\users\umair afzal\documents\codeblocks projects\chess\include\chessboard.h
+	<string>
+
+1549910817 c:\users\umair afzal\documents\codeblocks projects\chess\include\actionlist.h
+
+1551474220 source:c:\users\umair afzal\documents\codeblocks projects\chess\src\autoplayer.cpp
+	"..\\include\\autoPlayer.h"
+	<iostream>
+	"..\\include\\ENUM.h"
+	<cstdlib>
+	<ctime>
+
